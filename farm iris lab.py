@@ -5,7 +5,7 @@ from telethon.errors.rpcerrorlist import YouBlockedUserError
 
 @loader.tds
 class stickersMod(loader.Module):
-  """by @Vsakoe0 | этот модуль позволт копить био опыт/ресурсы
+  """by @Vsakoe0 | этот модуль позволит копить био опыт/ресурсы
   
   (на балансе необходимо иметь био опыт)"""
   strings = {'name':'bio farm'}
